@@ -1,2 +1,1 @@
-this test should be ignored
-hello world
+"this should be ignored by git"
